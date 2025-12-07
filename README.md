@@ -1,7 +1,7 @@
 Anything found in this repo can be regarded as a test, experiment, or exercise as I follow along with the material on learncpp.com.
 
-THE FOLLOWING CHANGES ARE MADE IN VSCODE VIA BOTH JSON FILES
-THESE ARE EXACTLY AS PRESCRIBED IN LEARNCPP CHAPTER 0
+The following changes are made in VSCode via both json files.
+These are exactly as prescribed in 'LearnCPP: Chapter 0':
 
 1. Disable compiler extensions
 2. Add a new line at the end of files to be compliant with the standard
